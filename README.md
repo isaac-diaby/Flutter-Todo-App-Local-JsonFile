@@ -1,16 +1,17 @@
-# todo_application
+# Todo App 
 
-A new Flutter project.
+## What Can It Do
+
+ - Read from a json file and deserialize the data to use in the app.
+ - Write to the json file by serializing the current user Todo state.
+ - Delete Todos from the json file.
+ - Toggle the status of a todo (Done | Not Done ).
+ - loads your previous data in a json file (persistent)
+ - saves the state of the todos in a json file.
+ 
 
 ## Getting Started
+follow the flutter install Some text with [here][1]
+[1]: https://flutter.io/ "Flutter.io"
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+> I made this app to get an understanding and a feel of using flutter to build a quite simple application
