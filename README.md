@@ -11,7 +11,6 @@
  
 
 ## Getting Started
-follow the flutter install Some text with [here][1]
-[1]: https://flutter.io/ "Flutter.io"
+follow the flutter install Some text with [here](https://flutter.io/ "Flutter.io")
 
 > I made this app to get an understanding and a feel of using flutter to build a quite simple application
